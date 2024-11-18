@@ -2,7 +2,7 @@
 
 Instructions to Run the API
 
-    Clone the repository:
+Clone the repository:
 
     git clone <repo-url>
     cd <repo-name>
